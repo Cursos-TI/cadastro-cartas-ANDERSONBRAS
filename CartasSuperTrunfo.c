@@ -7,7 +7,16 @@
 int main() {
 
     printf("Desafio Super Trunfo - Países\n");
+    
   // Área para definição das variáveis para armazenar as propriedades das cidades
+    char Estado[A-H];
+    char Código Carta[01-04];
+    char Cidade[30];
+    int População;
+    float Área;
+    float PIB;
+    int Pontos Turísticos;
+
 
   // Área para entrada de dados
 
